@@ -98,17 +98,6 @@ button:focus{
         width: 100%;
     }
     .result-container{
-        background-color: rgb(9, 9, 44);
-        color: #fff;
-        display: flex;
-        flex-direction: column;
-        height: 50vh;
-        align-items: center;
-        justify-content: center;
-        margin: 0;
         margin-right: 20px;
-        width: 100%;
-        text-align: center;
-        display: none;
     }
 }
