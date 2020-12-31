@@ -109,5 +109,6 @@ button:focus{
         margin-right: 20px;
         width: 100%;
         text-align: center;
+        display: none;
     }
 }
